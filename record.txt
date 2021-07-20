@@ -1,0 +1,24 @@
+
+1	Burger		2	360$	Mon May 27 16:03:35 2019
+
+1	Chicken-Karahi		1	1000$	Sat Sep 14 00:57:42 2019
+
+1	Burger		2	360$	Sun Dec 08 23:56:07 2019
+
+2	Burger		1	180$	Sun Dec 08 23:56:27 2019
+
+1	Burger		2	360$	Thu Jan 23 14:37:39 2020
+
+2	Burger		2	360$	Thu Jan 23 14:37:49 2020
+
+3	Burger		1	180$	Thu Jan 23 14:38:18 2020
+
+1	Burger		1	180$	Sat Jan 25 21:19:23 2020
+
+1	Burger		1	180$	Sat Jan 25 21:20:32 2020
+
+1	Burger		1	180$	Sun Jan 26 21:49:12 2020
+
+1	Burger		2	360$	Tue Jul 20 20:34:56 2021
+
+2	Burger		2	360$	Tue Jul 20 20:35:50 2021

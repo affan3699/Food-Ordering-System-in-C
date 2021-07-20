@@ -1,0 +1,11 @@
+1 Burger
+2 Chicken-Karahi
+3 Fried-Chicken
+4 Chicken-Nihari
+5 Chicken-Tikka
+6 Halwa-Puri
+7 Biryani
+8 Haleem
+9 Pulao
+10 Zinger-Burger
+11 something

@@ -1,0 +1,10 @@
+1 Kung-Pao-Chicken
+2 ChowMein
+3 Dumplings
+4 Ma-Po-Tofu
+5 Wontons
+6 Spring-Rolls
+7 Quick-Noodles
+8 Chicken-Fried-Rice
+9 Hot-and-Sour-Soup
+10 Chicken-Manchuriun
