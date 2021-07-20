@@ -1,5 +1,7 @@
 # Food-Ordering-System-in-C
 
+This is a basic command line program created with C-Languge
+
 <img src="Images/1.PNG" width="1000" height="400">
 
 <img src="Images/2.PNG" width="1000" height="400">
